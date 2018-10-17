@@ -2,10 +2,10 @@
 
 - Arquivos c  
 main.c  
-operacoes.c
+operacoes.c  
 
 - Arquivos h  
-operacoes.h
+operacoes.h  
 
 - Biblioteca IUP  
 include\  
