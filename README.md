@@ -1,16 +1,18 @@
 # Calculadora
 
 - Arquivos c  
+
 main.c  
-operacoes.c  
+operacoes.c
 
 - Arquivos h  
-operacoes.h  
+
+operacoes.h
 
 - Biblioteca IUP  
-include\  
-library\  
 
+include\  
+library\
 
 - Funcionamento do programa
 
