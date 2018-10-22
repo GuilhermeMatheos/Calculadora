@@ -15,7 +15,7 @@ int mult(int a, int b) {
     	return 0;
 	}
 
-    return a + (a * (b-1));
+    return a + (mult(a, (b-1)));
 }
 
 int divisao(int a, int b) {
